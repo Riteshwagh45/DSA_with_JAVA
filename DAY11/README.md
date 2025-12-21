@@ -1,4 +1,4 @@
-Day 11 of 60 Days of DSA with Java 🔁
+Day 11 of 90 Days of DSA with Java 🔁
 
 Topics I covered today:
 
