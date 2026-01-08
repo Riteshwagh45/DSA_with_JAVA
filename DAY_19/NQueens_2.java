@@ -1,3 +1,12 @@
+/*
+ This code runs on LeetCode only.
+ There is no main() method here because LeetCode
+ already has its own main class.
+
+ To run this code in your editor,
+ create a main class and call this function.
+*/
+
 class NQueens_2 {
 
     int count = 0;
